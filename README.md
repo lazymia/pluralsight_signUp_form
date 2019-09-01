@@ -1,0 +1,1 @@
+This a simple sign in form using Pluralsight, an online learning platform as an example.
